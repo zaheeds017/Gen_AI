@@ -1,0 +1,6 @@
+# Module 3 - Data Analysis & Visualization
+# Install everything at once with:  pip install -r requirements.txt
+numpy
+pandas
+matplotlib
+seaborn

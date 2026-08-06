@@ -1,0 +1,12 @@
+# Module 10 Capstone Projects - dependencies
+# Install with:  pip install -r requirements.txt
+#
+# The three engines (chatbot_engine.py, analyzer.py, medical_engine.py) use ONLY
+# the Python standard library - no installs needed to run/test them.
+# Streamlit (and pandas, used by Capstone B) are only for the web UIs.
+
+streamlit>=1.30
+pandas>=2.0
+
+# Optional - only for Capstone A's real AI mode (USE_REAL_API = True):
+# anthropic>=0.40

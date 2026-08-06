@@ -1,0 +1,10 @@
+# Module 7 - Generative AI & Prompt Engineering
+#
+# The projects run OFFLINE in MOCK mode with NO installs and NO API key.
+# You only need this package to switch a project to REAL mode (USE_REAL_API = True):
+#
+#   pip install anthropic
+#
+# Then set your key:  export ANTHROPIC_API_KEY="sk-ant-..."   (Windows: setx)
+# Get a key at https://console.anthropic.com
+anthropic

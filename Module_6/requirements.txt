@@ -1,0 +1,11 @@
+# Module 6 - Natural Language Processing
+# Install everything with:  pip install -r requirements.txt
+numpy
+matplotlib
+seaborn          # Project 1 (confusion-matrix heatmap)
+scikit-learn     # TF-IDF, Naive Bayes, Logistic Regression, all NLP tools
+
+# OPTIONAL - to try the Hugging Face Transformers / BERT code shown in the
+# notes (Section 8). These are large; a model download needs internet.
+# transformers
+# torch

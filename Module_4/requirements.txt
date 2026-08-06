@@ -1,0 +1,7 @@
+# Module 4 - Machine Learning Essentials
+# Install everything at once with:  pip install -r requirements.txt
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn

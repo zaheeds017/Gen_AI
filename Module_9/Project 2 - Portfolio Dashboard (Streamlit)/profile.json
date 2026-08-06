@@ -1,0 +1,17 @@
+{
+  "name": "Priya Sharma",
+  "headline": "Aspiring AI/ML Engineer  |  Python  |  Data Science",
+  "location": "Bengaluru, India",
+  "email": "priya.example@email.com",
+  "github": "https://github.com/your-username",
+  "linkedin": "https://linkedin.com/in/your-username",
+  "about": "Final-year engineering student who completed a 10-module AI upskilling program. I build small, honest AI apps end-to-end: from cleaning data and training models to deploying them as web apps. I care about writing clear code and explaining results simply. Currently looking for an AI/ML internship where I can keep learning from a strong team.",
+  "skills": {
+    "Python": 90,
+    "Data Analysis (Pandas)": 85,
+    "Machine Learning": 80,
+    "Deep Learning / CV": 70,
+    "NLP": 70,
+    "Deployment (Flask/Streamlit)": 75
+  }
+}

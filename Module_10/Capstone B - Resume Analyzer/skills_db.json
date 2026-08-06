@@ -1,0 +1,21 @@
+{
+  "skills": [
+    "python", "java", "javascript", "c++", "sql", "r", "html", "css",
+    "pandas", "numpy", "scipy", "matplotlib", "seaborn", "scikit-learn",
+    "tensorflow", "pytorch", "keras", "opencv",
+    "machine learning", "deep learning", "data analysis", "data visualization",
+    "statistics", "nlp", "natural language processing", "computer vision",
+    "neural networks", "regression", "classification", "clustering",
+    "flask", "django", "fastapi", "streamlit", "rest api",
+    "git", "github", "docker", "linux", "aws", "azure", "gcp",
+    "excel", "power bi", "tableau", "jupyter",
+    "prompt engineering", "llm", "generative ai", "ai agents", "rag",
+    "communication", "teamwork", "problem solving"
+  ],
+  "action_verbs": [
+    "built", "designed", "developed", "created", "deployed", "analysed",
+    "analyzed", "automated", "improved", "reduced", "increased", "trained",
+    "led", "managed", "implemented", "optimized", "shipped", "launched",
+    "delivered", "researched", "presented"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Priya Sharma",
+  "title": "Aspiring AI/ML Engineer",
+  "location": "Bengaluru, India",
+  "email": "priya.example@email.com",
+  "phone": "+91-90000-00000",
+  "github": "https://github.com/your-username",
+  "linkedin": "https://linkedin.com/in/your-username",
+  "summary": "Final-year Computer Science student who completed a 10-module AI upskilling program. Comfortable taking a project from raw data to a deployed web app. Strong Python fundamentals, a practical grip on machine learning, and a habit of explaining results clearly.",
+  "skills": [
+    "Python", "Pandas", "NumPy", "scikit-learn", "Machine Learning",
+    "Data Visualization", "NLP", "Flask", "Streamlit", "Git/GitHub"
+  ],
+  "experience": [
+    {
+      "role": "Data Science Intern",
+      "org": "Bright Analytics (Internship)",
+      "period": "May 2025 - Jul 2025",
+      "bullets": [
+        "Cleaned and analysed a 50,000-row sales dataset with Pandas, cutting report prep time by about 60 percent",
+        "Built a churn-prediction model (logistic regression) reaching 0.82 ROC-AUC on held-out data",
+        "Presented findings in weekly demos to a team of five non-technical stakeholders"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Iris Species Predictor (Flask)",
+      "bullets": [
+        "Trained a Random Forest classifier and served it as both an HTML form and a JSON API",
+        "Added input validation and a health-check endpoint used by the hosting platform"
+      ]
+    },
+    {
+      "name": "Spam SMS Classifier (NLP)",
+      "bullets": [
+        "Built TF-IDF features over cleaned text and trained a classifier with high precision",
+        "Handled negation and rare-word cases to reduce false positives"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.E. in Computer Science",
+      "school": "Sample Institute of Technology",
+      "period": "2022 - 2026",
+      "detail": "Relevant coursework: Data Structures, Databases, Statistics, Machine Learning"
+    }
+  ],
+  "certifications": [
+    "AI Powered Engineering Upskilling Program (10 modules)"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "disclaimer": "This is an EDUCATIONAL demo, not medical advice. It cannot diagnose you. Always consult a qualified healthcare professional for any health concern. In an emergency, call your local emergency number immediately.",
+  "emergency_flags": [
+    "chest pain", "chest pressure", "difficulty breathing", "shortness of breath",
+    "trouble breathing", "cannot breathe", "severe bleeding", "coughing blood",
+    "fainting", "loss of consciousness", "unconscious", "seizure",
+    "face drooping", "slurred speech", "sudden numbness", "sudden weakness",
+    "suicidal", "suicide", "want to die", "severe allergic reaction",
+    "stiff neck with fever", "severe headache worst"
+  ],
+  "conditions": [
+    {
+      "name": "Common cold",
+      "keywords": ["runny nose", "sneezing", "congestion", "stuffy nose", "sore throat", "cold"],
+      "info": "A mild viral infection of the nose and throat. Usually clears up on its own in 7-10 days.",
+      "self_care": ["Rest and drink plenty of fluids", "Use saline nasal spray for congestion", "Warm fluids can soothe a sore throat"],
+      "see_doctor_if": ["Symptoms last more than 10 days", "High fever (above 39 C / 102 F)", "Difficulty breathing"]
+    },
+    {
+      "name": "Fever",
+      "keywords": ["fever", "high temperature", "chills", "feeling hot"],
+      "info": "A raised body temperature is often the body's response to an infection.",
+      "self_care": ["Rest and stay hydrated", "Dress lightly and keep the room cool", "Over-the-counter fever reducers may help (follow the label)"],
+      "see_doctor_if": ["Fever above 39.4 C / 103 F", "Fever lasting more than 3 days", "Fever with a stiff neck, rash, or confusion"]
+    },
+    {
+      "name": "Headache",
+      "keywords": ["headache", "head pain", "migraine", "head hurts"],
+      "info": "Most headaches are tension-type and not dangerous, though they can be uncomfortable.",
+      "self_care": ["Rest in a quiet, dark room", "Drink water - dehydration is a common trigger", "Reduce screen time and take breaks"],
+      "see_doctor_if": ["A sudden, severe 'worst ever' headache", "Headache with fever and a stiff neck", "Headache after a head injury"]
+    },
+    {
+      "name": "Cough",
+      "keywords": ["cough", "coughing", "dry cough", "chesty cough"],
+      "info": "A cough helps clear the airways. Most coughs from a cold get better within a couple of weeks.",
+      "self_care": ["Stay hydrated and try warm honey water (not for infants under 1 year)", "Use a humidifier", "Avoid smoke and irritants"],
+      "see_doctor_if": ["A cough lasting more than 3 weeks", "Coughing up blood", "Cough with breathlessness or chest pain"]
+    },
+    {
+      "name": "Upset stomach",
+      "keywords": ["stomach ache", "nausea", "vomiting", "diarrhea", "diarrhoea", "upset stomach", "stomach pain"],
+      "info": "Short-lived stomach upset is often caused by something you ate or a mild viral infection.",
+      "self_care": ["Sip water often to avoid dehydration", "Eat bland foods (rice, toast, bananas) when ready", "Rest and avoid rich or spicy foods"],
+      "see_doctor_if": ["Signs of dehydration (very dark urine, dizziness)", "Blood in vomit or stool", "Severe pain or symptoms lasting more than 2 days"]
+    },
+    {
+      "name": "Muscle strain",
+      "keywords": ["muscle pain", "sore muscles", "back pain", "sprain", "strain", "pulled muscle"],
+      "info": "Minor muscle or joint strains are common after exercise or awkward movements.",
+      "self_care": ["Rest the area and apply ice for the first 24-48 hours", "Gentle stretching once the sharp pain eases", "Over-the-counter pain relief may help (follow the label)"],
+      "see_doctor_if": ["You cannot move or bear weight on the area", "Severe swelling or deformity", "Pain that does not improve in a week"]
+    }
+  ]
+}

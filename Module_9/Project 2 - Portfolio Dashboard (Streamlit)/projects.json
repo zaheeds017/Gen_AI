@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Iris Species Predictor (Flask API)",
+    "description": "Trained a Random Forest classifier and deployed it as a web app plus a JSON API. Shows a model can be reached from a browser form and from other programs.",
+    "tags": ["Python", "scikit-learn", "Flask", "REST API"],
+    "link": "https://github.com/your-username/iris-flask-app"
+  },
+  {
+    "title": "Customer Churn Analysis",
+    "description": "Explored a telecom dataset with Pandas, visualised churn drivers with Matplotlib/Seaborn, and built a logistic-regression model to flag at-risk customers.",
+    "tags": ["Pandas", "Seaborn", "Machine Learning"],
+    "link": "https://github.com/your-username/churn-analysis"
+  },
+  {
+    "title": "Spam SMS Classifier",
+    "description": "Cleaned raw text, built TF-IDF features, and trained a classifier that separates spam from real messages with high precision. Includes a tiny command-line demo.",
+    "tags": ["NLP", "TF-IDF", "scikit-learn"],
+    "link": "https://github.com/your-username/spam-classifier"
+  },
+  {
+    "title": "AI Career Toolkit",
+    "description": "A pure-Python tool that generates a clean resume, a LinkedIn About section, and a personalised interview-prep question bank from a single profile file.",
+    "tags": ["Python", "Automation", "Career"],
+    "link": "https://github.com/your-username/career-toolkit"
+  }
+]

@@ -1,0 +1,12 @@
+# Module 5 - Deep Learning & Computer Vision
+# Install everything with:  pip install -r requirements.txt
+numpy
+matplotlib
+scikit-learn        # Project 1 (Digit Recognition - neural network)
+opencv-python       # Project 3 (image processing); also pulled in by ultralytics
+ultralytics         # Project 2 (YOLO object detection); installs PyTorch too
+
+# OPTIONAL - for the Keras/TensorFlow CNN shown in the notes (Section 4 & 6).
+# TensorFlow needs Python 3.10-3.13 (no wheel for the newest Python builds yet).
+# Easiest option: use Google Colab, where TensorFlow is pre-installed.
+# tensorflow

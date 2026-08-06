@@ -1,0 +1,13 @@
+# Module 8 - AI Agents & Automation
+#
+# ALL projects run OFFLINE in MOCK mode with NO installs and NO API key.
+# You only need this package to switch a project to REAL AI mode
+# (USE_REAL_API = True), where the agents/emails are written by Claude:
+#
+#   pip install anthropic
+#
+# Then set your key:  export ANTHROPIC_API_KEY="sk-ant-..."   (Windows: setx)
+# Get a key at https://console.anthropic.com
+#
+# Project 2 (AI Agent) uses only the Python standard library - no installs at all.
+anthropic

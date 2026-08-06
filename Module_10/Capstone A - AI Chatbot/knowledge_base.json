@@ -1,0 +1,18 @@
+{
+  "domain": "AI Powered Engineering Upskilling Program - Help Desk",
+  "faqs": [
+    {"q": "What is this program about?", "a": "It is a 10-module program that takes you from Python basics to deploying real AI applications: data analysis, machine learning, deep learning, computer vision, NLP, generative AI, agents, deployment, and a final capstone."},
+    {"q": "What are the prerequisites?", "a": "Just curiosity and basic computer skills. Module 1 starts from Python fundamentals, so no prior programming experience is required."},
+    {"q": "Which programming language does the course use?", "a": "Python. It is the most popular language for AI and data science, and every module uses it."},
+    {"q": "How long is the program?", "a": "The syllabus is about 50 hours of content across 10 modules, but you can go at your own pace."},
+    {"q": "What tools do I need to install?", "a": "Python and an editor like VS Code. Later modules use libraries such as NumPy, Pandas, scikit-learn, Flask, and Streamlit, which you install with pip."},
+    {"q": "What is machine learning?", "a": "Machine learning is teaching a computer to find patterns in data and make predictions, instead of writing the rules by hand. Module 4 covers it in depth."},
+    {"q": "What is the difference between AI and machine learning?", "a": "AI is the broad goal of making machines act intelligently. Machine learning is one way to get there, by learning patterns from data. Deep learning is a subset of machine learning that uses neural networks."},
+    {"q": "How do I deploy my model?", "a": "Save the trained model to a file, load it inside a web app built with Flask or Streamlit, and host it on a free platform like Streamlit Community Cloud or Render. Module 9 walks through this."},
+    {"q": "What is the capstone project?", "a": "The final module where you build one complete, end-to-end AI solution - such as a chatbot, a resume analyzer, or a medical assistant - and present it as your portfolio centerpiece."},
+    {"q": "Do I get a certificate?", "a": "Yes. Completing all 10 modules earns you the AI Powered Engineering Upskilling Program certificate, which you can add to your resume and LinkedIn."},
+    {"q": "What careers can this lead to?", "a": "Roles like Data Analyst, Data Scientist, Machine Learning Engineer, and AI/LLM Engineer. Module 9 covers career paths in detail."},
+    {"q": "What is a large language model?", "a": "A large language model (LLM) is an AI trained on huge amounts of text that predicts the next word to generate human-like language. Module 7 covers LLMs and prompt engineering."},
+    {"q": "How do I contact support?", "a": "This is a demo chatbot, so there is no live support. In a real product, this answer would include an email address or a link to a help desk."}
+  ]
+}
