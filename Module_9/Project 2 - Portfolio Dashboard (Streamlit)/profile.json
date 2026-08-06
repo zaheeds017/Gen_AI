@@ -1,17 +1,20 @@
 {
-  "name": "Priya Sharma",
-  "headline": "Aspiring AI/ML Engineer  |  Python  |  Data Science",
-  "location": "Bengaluru, India",
-  "email": "priya.example@email.com",
-  "github": "https://github.com/your-username",
-  "linkedin": "https://linkedin.com/in/your-username",
-  "about": "Final-year engineering student who completed a 10-module AI upskilling program. I build small, honest AI apps end-to-end: from cleaning data and training models to deploying them as web apps. I care about writing clear code and explaining results simply. Currently looking for an AI/ML internship where I can keep learning from a strong team.",
+  "name": "S Zaheed",
+  "headline": "ECE Undergraduate  |  Aspiring AI/ML Engineer  |  Python  |  Data Science",
+  "degree": "B.Tech",
+  "dept": "Electronics and Communication Engineering (ECE)",
+  "college": "VEMU Institute of Technology, P. Kothakota",
+  "location": "Andhra Pradesh, India",
+  "email": "zaheeds2003e@gmal.com",
+  "github": "https://github.com/zaheeds017",
+  "linkedin": "https://www.linkedin.com/in/shaik-zaheed-81802427a",
+  "about": "ECE student currently pursuing my B.Tech at VEMU Institute of Technology, P. Kothakota. I'm working through a 10-module AI upskilling program, building small AI apps end-to-end: from cleaning data and training ML models to NLP, deep learning, and deploying them with Flask and Streamlit. I care about writing clear code and explaining results simply. Currently looking for an AI/ML internship where I can keep learning from a strong team.",
   "skills": {
-    "Python": 90,
-    "Data Analysis (Pandas)": 85,
-    "Machine Learning": 80,
+    "Python": 85,
+    "Data Analysis (Pandas)": 80,
+    "Machine Learning": 75,
     "Deep Learning / CV": 70,
-    "NLP": 70,
-    "Deployment (Flask/Streamlit)": 75
+    "NLP": 65,
+    "Deployment (Flask/Streamlit)": 70
   }
 }
